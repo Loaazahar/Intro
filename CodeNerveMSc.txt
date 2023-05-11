@@ -17,7 +17,7 @@ Hello Again! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- longlonglongcomment --><!-- longlonglongcomment -->
 
 
-<a href="MScKrVer" span id="k">한국어의 경우 여기를 <!-- slightdelayhere--> 클릭하십시오</a><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
 
 
 <a href="index" span id="d">Return to Homepage<!-- slightdelayhere--> </a>
