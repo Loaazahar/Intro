@@ -12,8 +12,8 @@ Hello Again! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
 
 <p>For the MSc thesis full text, you can check out <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/loaa_zahar.pdf">here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can check the MSc publication <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/hamed_biorob_2018.pdf">Here</a> </p>
-
+<p> You can check the MSc publication <a href="https://ieeexplore.ieee.org/abstract/document/8488008">(Realization of a Soft Microrobot with Multiple Flexible Flagella)</a> </p>
+<p> You can check the first Post MSc Work publication <a href="https://www.tandfonline.com/doi/full/10.1080/00914037.2022.2132248">(Magnetic polycaprolactone microspheres: drug encapsulation and control)</a> </p>
 <!-- longlonglongcomment --><!-- longlonglongcomment -->
 
 
