@@ -6,7 +6,20 @@ Hello! Welcome.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My Name is Loaa Z
 <p>I am a computer engineer with passion for software and hardware.</p><!-- slightdelayhere--><!-- slightdelayhere--><!-- slightdelayhere--> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Driven by my love for research and working with hardware and monitoring the software systems coming to life. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have pursued both my BSc and MSc degrees in the implemention of motion control, object detection and tracking algorithms on hardware. (Robots and MicroRobots)</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p> I worked on my <a href="MScEngVer" >MSc Project</a> and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for four years (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> I continued to work as a Researcher in the laboratory till September 2021.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I worked on my MSc Project and thesis in <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->the <a href="http://www.mnrlab.com/"> Medical Micro and Nano Robotics Laboratory</a> for four years (2016~2020).<!-- slightdelayhere--><!-- slightdelayhere--> I continued to work as a Researcher in the laboratory till September 2021.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<p>Developed a selective closed loop motion control system <!-- slightdelayhere--><!-- slightdelayhere--> for the steering of drug delivery agents. <!-- slightdelayhere--> microrobotic sperm robots, under a common magnetic field. </p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+<p>Fabricated and controlled the motion of biodegradable microrobots,<!-- slightdelayhere--><!-- slightdelayhere--> as proof of concept of fabricating microrobots to enter <!-- slightdelayhere-->the human-body for targeted drug delivery.</p>
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- slightdelayhere--><!-- slightdelayhere-->
+
+<p>For the MSc thesis full text, you can check out <a href="http://www.mnrlab.com/uploads/7/3/8/3/73833313/loaa_zahar.pdf">here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can check the MSc publication <a href="https://ieeexplore.ieee.org/abstract/document/8488008">(Realization of a Soft Microrobot with Multiple Flexible Flagella)</a> </p>
+<p> You can check the first Post MSc Work publication <a href="https://www.tandfonline.com/doi/full/10.1080/00914037.2022.2132248">(Magnetic polycaprolactone microspheres: drug encapsulation and control)</a> </p>
+<!-- longlonglongcomment --><!-- longlonglongcomment -->
+
+
 <p>For my Technical Resume, you can check <a href="https://drive.google.com/file/d/1SJW4rQZzoLqLxYp-avAOgHGR5PQRV9-y/view?usp=sharing">The Technical Resume</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can check my professional profiles, here: <br><br><br> <a href="http://researchgate.net/profile/Loaa-Zahar?ev=hdr_xprf&_sg=FxyzpctrMIdpB7kV_Idxz4inZ_OqByIGcbKP5zs-YplgPY8HzkSD3CGj0RhrgmegzQ3JAU46_e-heO53KbJE6Dqv">Research Gate</a> <br><br><br> <a href="https://www.linkedin.com/in/loaazahar/">LinkedIn</a></p>
 
